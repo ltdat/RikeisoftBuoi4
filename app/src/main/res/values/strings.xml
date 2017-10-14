@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RikeiBuoi4</string>
+    <string name="btnHaveFun">Have Fun </string>
+    <string name="btnDoSomething">Do Something</string>
+    <string name="btnClickHere">Click here</string>
+    <string name="btnSurprise">Surprise</string>
+
+    <string name="btnEnglish">English</string>
+    <string name="btnJapanese">Japanese</string>
+    <string name="btnRussian">Russian</string>
+</resources>

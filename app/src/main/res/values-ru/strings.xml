@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RikeiBuoi4</string>
+    <string name="btnSurprise">сюрприз</string>
+    <string name="btnHaveFun">Повеселись</string>
+    <string name="btnDoSomething">Сделай что-нибудь</string>
+    <string name="btnClickHere">кликните сюда</string>
+
+    <string name="btnEnglish">Английский</string>
+    <string name="btnJapanese">японский</string>
+    <string name="btnRussian">Pусский</string>
+</resources>
